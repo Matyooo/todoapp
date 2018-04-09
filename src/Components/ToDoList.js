@@ -9,7 +9,7 @@ export class ToDoList extends React.Component {
         this.state = {
             editIndex : -1,
             toDoItems : [
-                <ToDoItem value="todo1" isDone='true'/>,
+                <ToDoItem value="todo1aaaa" isDone='true'/>,
                 <ToDoItem value="todo2"/>,
                 <ToDoItem value="todo3" done='true'/>    
             ]
